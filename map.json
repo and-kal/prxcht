@@ -67,7 +67,7 @@
                 {
                  "name":"openWebsiteUrl",
                  "type":"string",
-                 "value":"..\/info.html"
+                 "value":"https:\/\/github.com\/callnasty\/prxcht\/blob\/master\/info.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -139,7 +139,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"..\/sc_sub.html"
+                 "value":"https:\/\/github.com\/callnasty\/prxcht\/blob\/master\/sc_sub.html"
                 }],
          "type":"tilelayer",
          "visible":true,
