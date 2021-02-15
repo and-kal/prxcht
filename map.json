@@ -67,7 +67,7 @@
                 {
                  "name":"openWebsiteUrl",
                  "type":"string",
-                 "value":""
+                 "value":"..\/info.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -139,7 +139,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/soundcloud.com\/prachtleipzig\/"
+                 "value":"..\/sc_sub.html"
                 }],
          "type":"tilelayer",
          "visible":true,
